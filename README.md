@@ -47,14 +47,14 @@ mindmap
 
 ## 🚀 Demo
 
-Experience the live portfolio at [https://anasm20.github.io/anas-protfolio/(https://anasm20.github.io/anas-protfolio/)
+Experience the live portfolio at [https://anasm20.github.io/anas-portfolio/(https://anasm20.github.io/anas-portfolio/)
 
 ## 🛠️ Installation
 
 1️⃣ Clone the repository:
 
 ```bash
-git clone https://github.com/anasm20/anas-protfolio
+git clone https://anasm20.github.io/anas-portfolio/
 ```
 
 2️⃣ Navigate to project directory:
