@@ -47,7 +47,7 @@ mindmap
 
 ## 🚀 Demo
 
-Experience the live portfolio at [https://github.com(https://github)
+Experience the live portfolio at [https://anasm20.github.io/anas-protfolio/(https://anasm20.github.io/anas-protfolio/)
 
 ## 🛠️ Installation
 
