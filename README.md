@@ -60,7 +60,7 @@ git clone https://github.com/anasm20/anas-protfolio
 2️⃣ Navigate to project directory:
 
 ```bash
-cd Portfolio-Website
+cd anas-portfolio
 ```
 
 3️⃣ Install dependencies:
